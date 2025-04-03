@@ -1,0 +1,4 @@
+1 aTreg_Fxp3AIDTIRF74G_0h_ctr
+2 aTreg_Fxp3AIDTIRF74G_6h_exp
+3 rTreg_Fxp3AIDTIRF74G_0h_ctr
+4 rTreg_Fxp3AIDTIRF74G_6h_exp
