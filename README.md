@@ -7,3 +7,4 @@ Snakemake/R/Pyhton code used for total RNA-Seq analysis of Jaeger et al. "Chemic
 * *Treg_Il2aIl2* contains snakemake config file and sample tables for analysing differential gene expression for differentially expressed genes in GFP+ TREG cells isolated from mice injected with IL-2/anti-IL2 complexes with or without 5-Ph-IAA.
 * *code* contains additinonal R and python code for the individual processing steps.
 
+Note: these scripts are optimized for runnig on the Vienna Biocenter Computing cluster (CBE) using SLURM.
