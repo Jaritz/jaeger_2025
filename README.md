@@ -9,6 +9,6 @@ Snakemake/R/Pyhton code used for total RNA-Seq analysis of Jaeger et al. "Chemic
 
 Note: these scripts are optimized for runnig on the Vienna Biocenter Computing cluster (CBE) using SLURM.
 
-Original author: Kimon Froussios
+Original implementation: Kimon Froussios
 
 Updates/changes (all-noexon): Markus Jaritz
