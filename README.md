@@ -11,4 +11,4 @@ Note: these scripts are optimized for runnig on the Vienna Biocenter Computing c
 
 Original implementation: Kimon Froussios
 
-Updates/changes (adding all-noexon and UMI handling): Markus Jaritz
+Updates/changes (adding all-noexon and UMI handling): Markus Jaritz @vienna-bio-center/lab-gaidt
