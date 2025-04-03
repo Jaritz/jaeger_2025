@@ -1,5 +1,6 @@
 # Jaeger et al., submitted
 Snakemake/R/Pyhton code used for total RNA-Seq analysis of Jaeger et al. "Chemically-induced protein degradation reveals 1 inflammation-dependent requirement for TREG lineage-defining transcription factor FOXP3". Submitted, 2025.
+Christina Jäger, Polina Dimitrova1, Qiong Sun, Jesse Tennebroek, Elisa Marchiori, Markus Jaritz, Rene Rauschmeier, Guillem Estivill, Anna Obenauf, Meinrad Busslinger, Joris van der Veeken,  [https://www.imp.ac.at//groups/joris-van-der-veeken] (van der Veeken lab)
 
 * *Snakefile* contains snakemake file to run the individual analyses.
 * *rTregaTreg* contains snakemake config file and sample tables for analysing differential gene expression in steady-state or activated GFP+ CD4 T cells isolated from pooled secondary lymphoid tissues of animals treated with 5-Ph-IAA or PBS, all normalized together.
