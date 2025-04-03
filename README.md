@@ -1,4 +1,4 @@
-# jJeger et al., JEM 2025, submitted
+# Jaeger et al., JEM 2025, submitted
 Snakemake/R/Pyhton code used for total RNA-Seq analysis of Jaeger et al. "Chemically-induced protein degradation reveals 1 inflammation-dependent requirement for TREG lineage-defining transcription factor FOXP3". Submitted to Journal of Experimental Medicine, 2025.
 
 * *Snakefile* contains snakemake file to run the individual analyses.
