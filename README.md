@@ -8,3 +8,6 @@ Snakemake/R/Pyhton code used for total RNA-Seq analysis of Jaeger et al. "Chemic
 * *code* contains additinonal R and python code for the individual processing steps.
 
 Note: these scripts are optimized for runnig on the Vienna Biocenter Computing cluster (CBE) using SLURM.
+
+Original author: Kimon Froussios
+Updates/changes (all-noexon): Markus Jaritz
